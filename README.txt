@@ -1,3 +1,11 @@
+# jotiker.xyz
+
+This is a github hosted personal website based on "Story" by HTML5 UP, which I highly recommend.
+
+More information about Story and HTML5 UP can be found below.
+
+## Story by HTML5 UP
+
 Story by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
